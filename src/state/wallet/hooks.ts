@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, ETHER, JSBI, Token, TokenAmount } from '@love-apeswapfinance-sdk'
+import { Currency, CurrencyAmount, ETHER, JSBI, Token, TokenAmount } from 'love-apeswapfinance-sdk'
 import { useMemo } from 'react'
 import ERC20_INTERFACE from '../../constants/abis/erc20'
 import { useAllTokens } from '../../hooks/Tokens'

@@ -1,4 +1,4 @@
-import { ChainId } from '@love-apeswapfinance-sdk'
+import { ChainId } from 'love-apeswapfinance-sdk'
 import React, { useContext } from 'react'
 import { ThemeContext } from 'styled-components'
 import { Button, LinkExternal } from '@pancakeswap-libs/uikit'

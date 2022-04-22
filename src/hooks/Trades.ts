@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Pair, Token, Trade } from '@love-apeswapfinance-sdk'
+import { Currency, CurrencyAmount, Pair, Token, Trade } from 'love-apeswapfinance-sdk'
 import flatMap from 'lodash.flatmap'
 import { useMemo } from 'react'
 

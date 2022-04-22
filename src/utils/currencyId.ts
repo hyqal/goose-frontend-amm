@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@love-apeswapfinance-sdk'
+import { Currency, ETHER, Token } from 'love-apeswapfinance-sdk'
 
 export function currencyId(currency: Currency): string {
   if (currency === ETHER) return 'ETH'

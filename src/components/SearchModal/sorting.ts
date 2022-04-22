@@ -1,4 +1,4 @@
-import { Token, TokenAmount } from '@love-apeswapfinance-sdk'
+import { Token, TokenAmount } from 'love-apeswapfinance-sdk'
 import { useMemo } from 'react'
 import { useAllTokenBalances } from '../../state/wallet/hooks'
 

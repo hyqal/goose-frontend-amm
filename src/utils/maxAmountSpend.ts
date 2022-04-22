@@ -1,4 +1,4 @@
-import { CurrencyAmount, ETHER, JSBI } from '@love-apeswapfinance-sdk'
+import { CurrencyAmount, ETHER, JSBI } from 'love-apeswapfinance-sdk'
 import { MIN_ETH } from '../constants'
 
 /**

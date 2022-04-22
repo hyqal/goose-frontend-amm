@@ -1,4 +1,4 @@
-import { JSBI, Token } from '@love-apeswapfinance-sdk'
+import { JSBI, Token } from 'love-apeswapfinance-sdk'
 import React, { useCallback, useContext, useMemo, useState, useEffect } from 'react'
 import { ThemeContext } from 'styled-components'
 import { AutoColumn } from '../../components/Column'

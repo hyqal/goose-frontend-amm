@@ -14,7 +14,7 @@ import {
   Trade,
   TradeType,
   WETH,
-} from '@love-apeswapfinance-sdk'
+} from 'love-apeswapfinance-sdk'
 import { useMemo } from 'react'
 import { useActiveWeb3React } from '../hooks'
 import { useAllTokens } from '../hooks/Tokens'

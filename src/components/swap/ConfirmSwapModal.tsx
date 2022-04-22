@@ -1,4 +1,4 @@
-import { currencyEquals, Trade } from '@love-apeswapfinance-sdk'
+import { currencyEquals, Trade } from 'love-apeswapfinance-sdk'
 import React, { useCallback, useMemo } from 'react'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,
